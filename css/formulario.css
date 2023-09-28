@@ -1,7 +1,12 @@
 @charset "UTF-8";
 
 
-input[type=text], input[type=email], input[type=tel], input[type=url], textarea, select {
+input[type=text],
+input[type=email],
+input[type=tel],
+input[type=url],
+textarea,
+select {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -11,7 +16,8 @@ input[type=text], input[type=email], input[type=tel], input[type=url], textarea,
   box-sizing: border-box;
 }
 
-input[type=submit], input[type=reset]  {
+input[type=submit],
+input[type=reset] {
   width: 100%;
   background-color: #4CAF50;
   color: white;
